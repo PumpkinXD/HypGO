@@ -1,0 +1,8 @@
+ {
+	"credit": "Made with Kate && VSCode",
+    "parent":"item/guns/pump_action",
+    "textures": {
+		"0": "items/guns/M870_basalt",
+		"particle": "items/guns/M870_basalt"
+    }
+}

@@ -1,0 +1,8 @@
+ {
+	"credit": "Made with Kate && VSCode",
+    "parent":"item/guns/desert_eagle",
+    "textures": {
+		"0": "items/guns/golden_desert_eagle",
+		"particle": "items/guns/golden_desert_eagle"
+    }
+}

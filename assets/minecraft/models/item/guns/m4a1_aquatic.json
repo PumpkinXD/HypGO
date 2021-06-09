@@ -1,0 +1,8 @@
+ {
+	"credit": "Made with Kate && VSCode",
+    "parent":"item/guns/m4a1",
+    "textures": {
+		"0": "items/guns/m4a1_navy_new",
+		"particle": "items/guns/m4a1_navy_new"
+    }
+}

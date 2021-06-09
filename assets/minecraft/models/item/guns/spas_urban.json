@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Kate && VSCode",
+    "parent":"item/guns/spas",
+    "textures": {
+		"0": "items/guns/spas_urban",
+		"particle": "items/guns/spas_urban"
+    }
+}
