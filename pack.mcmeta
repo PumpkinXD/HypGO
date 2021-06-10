@@ -1,6 +1,7 @@
 {
-    "pack": {
-        "description": "a resourcepack for cvc by pumpkin",
-        "pack_format": 0,
-        "_comment": "still WIP"
+   "pack":{
+      "pack_format":0,
+      "description":"a cvc resource pack created by pumpkin",
+      "_comment": "still WIP"
     }
+ }
