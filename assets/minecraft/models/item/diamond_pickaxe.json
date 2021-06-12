@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Kate && VSCode",
+	"item": "Desert Eagle",
+	"model_ver":"2",
+    "parent":"item/guns/golden_deagle",
+    "display": {
+		"thirdperson_righthand": {
+			"translation": [-1, 2.5, -0.75],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"translation": [-1, 4.25, -0.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"rotation": [0, 0, -90],
+			"translation": [1.5, -3.25, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [90, -45, 90],
+			"translation": [-1.25, 2.25, 0],
+			"scale": [1, 1, 1]
+		},
+		"fixed": {
+			"rotation": [90, 45, -90],
+			"translation": [1.25, 2, -1.5],
+			"scale": [1, 1, 1]
+		}
+	}
+}
+ 

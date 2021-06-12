@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Kate && VSCode",
+	"item": "M4A1",
+	"model_ver":"2",
+    "parent":"item/guns/m4a1_aquatic",
+    "display": {
+		"thirdperson_righthand": {
+			"translation": [-0.75, 8, -1.25],
+			"scale": [1.625, 1.625, 1.625]
+		},
+		"firstperson_righthand": {
+			"translation": [-1.25, 13, -2.5],
+			"scale": [2.375, 2.375, 2.375]
+		},
+		"ground": {
+			"rotation": [0, 0, -90],
+			"translation": [8, -2.75, -2.25],
+			"scale": [1.625, 1.625, 1.625]
+		},
+		"gui": {
+			"rotation": [90, -54, 90],
+			"translation": [-2.75, 6, 0.75],
+			"scale": [1.375, 1.375, 1.375]
+		},
+		"fixed": {
+			"rotation": [90, 49, -90],
+			"translation": [4, 6.25, -0.75],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}
+ 

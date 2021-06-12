@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Kate && VSCode",
+	"item": "P90",
+	"model_ver":"2",
+    "parent":"item/guns/p90_vibrant",
+    "display": {
+		"thirdperson_righthand": {
+			"translation": [-1, 4.5, 3],
+			"scale": [1, 1, 1]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 7.75, 0],
+			"scale": [1.375, 1.375, 1.375]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [-5.25, -2.75, 0],
+			"scale": [1, 1, 1]
+		},
+		"gui": {
+			"rotation": [90, -45, 90],
+			"translation": [-4.25, 5, 0],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"fixed": {
+			"rotation": [90, 45, -90],
+			"translation": [4.5, 4.75, -1.25],
+			"scale": [1.25, 1.25, 1.25]
+		}
+	}
+}

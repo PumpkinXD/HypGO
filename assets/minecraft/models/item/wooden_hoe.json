@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Kate && VSCode",
+	"item": "Pump Action",
+	"model_ver":"2",
+    "parent":"item/guns/basalt_shotgun",
+    "display": {
+		"thirdperson_righthand": {
+			"translation": [-1.25, 8.25, -3.25],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"firstperson_righthand": {
+			"translation": [-0.75, 14, -2.5],
+			"scale": [2.75, 2.75, 2.75]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [-8, -2.75, 0],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"gui": {
+			"rotation": [90, -47, 90],
+			"translation": [-4, 5, 0],
+			"scale": [1.375, 1.375, 1.375]
+		},
+		"fixed": {
+			"rotation": [90, 50, -90],
+			"translation": [4.75, 5.75, -0.75],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

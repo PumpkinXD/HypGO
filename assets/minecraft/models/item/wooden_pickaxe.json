@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Kate && VSCode",
+	"item": "USP-Tactical",
+	"model_ver":"2",
+    "parent":"item/guns/usp",
+    "display": {
+		"thirdperson_righthand": {
+			"translation": [-1.25, 1.375, 0.5],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"firstperson_righthand": {
+			"translation": [-1, 2.5, -0.75],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"ground": {
+			"rotation": [0, 0, -90],
+			"translation": [0, -3, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"gui": {
+			"rotation": [90, -45, 90],
+			"translation": [0.25, 1.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"fixed": {
+			"rotation": [90, 45, -90],
+			"translation": [1.25, 2, -1.5],
+			"scale": [1, 1, 1]
+		}
+	}
+}
+ 

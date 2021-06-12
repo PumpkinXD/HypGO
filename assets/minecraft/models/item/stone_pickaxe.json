@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Kate && VSCode",
+	"item": "USP-Match",
+	"model_ver":"2",
+    "parent":"item/guns/hk45",
+    "display": {
+		"thirdperson_righthand": {
+			"translation": [-0.75, 1.25, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"translation": [0.75, 2.75, -2.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"rotation": [0, 0, -90],
+			"translation": [0, -3, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [90, -45, 90],
+			"translation": [0.25, 1.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"fixed": {
+			"rotation": [90, 45, -90],
+			"translation": [1.25, 2, -1.5],
+			"scale": [1, 1, 1]
+		}
+	}
+}
+ 

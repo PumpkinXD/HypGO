@@ -1,0 +1,34 @@
+{
+	"credit": "Made with Kate && VSCode",
+	"item": "M82A1",
+	"model_ver":"2",
+    "parent":"item/guns/barrett_50cal",
+    "display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-1.4, 12, -7],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_righthand": {
+            "rotation": [0, 90, 0],
+			"translation": [-3.25, 18, -4.5],
+			"scale": [2.5, 2.5, 2.5]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [3.25, -3, 11.5],
+			"scale": [2, 2, 2]
+		},
+		"gui": {
+			"rotation": [0, 0, 45],
+			"translation": [-5.25, 6.5, 0],
+			"scale": [1.35, 1.35, 1.35]
+		},
+		"fixed": {
+			"rotation": [0, 180, 45],
+			"translation": [6.25, 6.75, -0.75],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}
+ 
