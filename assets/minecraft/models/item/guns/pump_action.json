@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "items/guns/M870_01",
-		"particle": "items/guns/M870_01"
+		"0": "items/guns/m870_01",
+		"particle": "items/guns/m870_01"
 	},
 	"elements": [
 		{
